@@ -1,2 +1,2 @@
 Here's the link:
-www.shepherdwp.github.io
+http://shepherdwp.github.io
